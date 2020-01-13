@@ -1,6 +1,6 @@
 # alt:V speedometer (minimalistic)
 
-![Preview](https://github.com/NicholasSchmitz/altV-minimalistic-speedometer/minimalistic-speedometer.jpg)
+![Preview](https://github.com/NicholasSchmitz/altV-minimalistic-speedometer/blob/master/minimalistic-speedometer.jpg)
 
 [![](http://img.youtube.com/vi/VtZox-TIyvk/0.jpg)](http://www.youtube.com/watch?v=VtZox-TIyvk "Preview")
 
