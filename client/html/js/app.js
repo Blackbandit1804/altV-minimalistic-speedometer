@@ -29,8 +29,6 @@ $(() => {
                 gearIndex = gear + 1;
             }
 
-            if (isElectric) if (gearCurrent > 0) gearNext = '';
-
             gearCurrent = gearOrder[gearIndex];
             gearNext = gearOrder[gearIndex + 1] !== undefined ? gearOrder[gearIndex + 1] : '';
             gearBefore = gearOrder[gearIndex - 1] !== undefined ? gearOrder[gearIndex - 1] : '';
